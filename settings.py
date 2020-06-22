@@ -19,4 +19,3 @@ DATABASES = {
 }
 
 ROOT_URLCONF = 'urls'
-
